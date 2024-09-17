@@ -9,7 +9,7 @@ export default function Home() {
       <div className=' bg-orange-500 flex  w-full h-5 justify-between items-center p-5'>
           {/*LeftTopBar */}
       <div className=' flex p-3 gap-5'>
-        <p className='flex items-center gap-3'>English <IoIosArrowDown /></p>
+        <p className='flex items-center gap-3'>Englishjjjjjjjj <IoIosArrowDown /></p>
         <p className='flex items-center gap-3'>Dollar <IoIosArrowDown /></p>
       </div>
       {/*RightTopBar */}
